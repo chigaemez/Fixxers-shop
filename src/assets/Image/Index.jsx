@@ -1,0 +1,5 @@
+export { default as hero } from './hero.jpg'
+export { default as cartBG } from './cartBG.jpg'
+export { default as cartBg2 } from './cartBg2.jpg'
+export { default as mastercard } from './mastercard.png'
+export { default as paypal } from './paypal.png'
